@@ -1,0 +1,1 @@
+I developed a custom String class in C++ to enhance my understanding of dynamic memory allocation and object-oriented programming. The Class includes constructors, desctructor overloaded operators and function to handle String operations.
